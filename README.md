@@ -1,4 +1,3 @@
-```markdown
 # Build a Drum Machine
 
 **Note**: React 18 has known incompatibilities with the tests for this project ([see issue](https://github.com/freeCodeCamp/testable-projects-fcc/issues)).
